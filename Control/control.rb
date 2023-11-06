@@ -1,2 +1,1 @@
-require 'socket'
-
+# frozen_string_literal: true
